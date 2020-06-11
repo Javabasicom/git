@@ -1,4 +1,4 @@
-﻿No russion text !
+﻿No russion text 
 ветка мастер
 
 закомичена в github

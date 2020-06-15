@@ -1,5 +1,1 @@
-﻿No russion text 
-ветка мастер
-
-закомичена в github
-Изменена в github
+clear txt file to github

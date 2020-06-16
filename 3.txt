@@ -1,5 +1,7 @@
-﻿No russion text 
-ветка мастер
+clear txt file to github
+push to hub
 
-закомичена в github
-Изменена в github
+diff 
+push origin
+pull from github to local
+fetch from github to local

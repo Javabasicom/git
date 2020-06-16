@@ -2,5 +2,6 @@ clear txt file to github
 push to hub
 
 diff 
-Push origin
+push origin
+pull from github to local
 fetch from github to local

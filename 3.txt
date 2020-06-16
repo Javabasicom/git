@@ -2,3 +2,4 @@ clear txt file to github
 push to hub
 
 diff изменили
+Push origin

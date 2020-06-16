@@ -1,5 +1,6 @@
 clear txt file to github
 push to hub
 
-diff изменили
+diff 
 Push origin
+fetch from github to local

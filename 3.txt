@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 master branch
+test branch
 
-=======
-test2 branch
->>>>>>> test2
 clear txt file to github
 push to hub
 
